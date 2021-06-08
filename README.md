@@ -1,3 +1,3 @@
-# ALX Zero Day; 0x03 Git Project
+# ALX Zero Day
 
 - I am soo excited for this 😅😄😁
