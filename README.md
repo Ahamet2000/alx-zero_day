@@ -11,5 +11,5 @@
 
 ## Templates for other repositories that you can use
 
-- [./main\_readme\_template.md](main ReadMe)
-- [./tasks\_readme\_template.md](subdirectories ReadMe)
+- [Main Repository ReadMe](./main_readme_template.md)
+- [Subdirectory ReadMe](./tasks_readme_template.md)
